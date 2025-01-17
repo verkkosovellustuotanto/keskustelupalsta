@@ -1,2 +1,5 @@
-# keskustelupalsta
+# KESKUSTELUPALSTA
+
+---
+
 Meidän täysin oma keskustelupalsta.
